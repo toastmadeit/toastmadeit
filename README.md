@@ -8,4 +8,4 @@ Feel free to check out my projects and connect with me!
 Let's build something amazing together! 🚀
 
 
-[![Toastmadeit's GitHub stats](https://github-readme-stats.vercel.app/api?username=toastmadeit&show_icons=true&theme=highcontrast)](https://github.com/toastmadeit/github-readme-stats)
+[![Toastmadeit's GitHub stats](https://github-readme-stats.vercel.app/api?username=toastmadeit&show_icons=true&theme=radical)](https://github.com/toastmadeit/github-readme-stats)
